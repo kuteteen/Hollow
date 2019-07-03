@@ -9,6 +9,7 @@ Tweak for YouTube
 - Background playback.
 - Block ADs of videos.
 - Select quality in mobile data.
+- Convert Video to Audio.
 - Downloaded library to manage your downloades.
 
 # License:
